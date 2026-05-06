@@ -7,7 +7,7 @@ I found this book incredibly practical. I'm saving hours every week with just th
 </p>
 
 <p align="center">
-  <strong>From Debugging to System Design, Code Review & Engineering Automation</strong>
+  <strong>50 practical AI workflows for engineers: from debugging to system design, code review & engineering automation</strong>
 </p>
 
 <p align="center">
