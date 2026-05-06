@@ -1,5 +1,7 @@
 # 50 AI Workflows for Engineers
 
+> I found this book incredibly practical — I'm saving hours every week with just the first 5 workflows. Highly recommended for any engineer using AI tools daily.
+
 <p align="center">
   <img src="cover.jpg" alt="50 AI Workflows for Engineers" width="400">
 </p>
