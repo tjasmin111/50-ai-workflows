@@ -1,17 +1,21 @@
 # 50 AI Workflows for Engineers
 
-I found this book incredibly practical. I'm saving hours every week with just the first 5 workflows. Highly recommended for any engineer using AI tools daily.
+> A solid, practical read. The debugging and PR workflows alone have already saved me a couple of hours this week.
 
 <p align="center">
   <img src="cover.jpg" alt="50 AI Workflows for Engineers" width="400">
 </p>
 
 <p align="center">
-  <strong>50 AI workflows for engineers: from debugging to system design, code review & engineering automation</strong>
+  <strong>From Debugging to System Design, Code Review & Engineering Automation</strong>
 </p>
 
 <p align="center">
   <a href="https://www.amazon.com/Workflows-Engineers-Debugging-Engineering-Automation-ebook/dp/B0GZHP3X8L">📘 Get the Kindle eBook</a> · <a href="https://www.amazon.com/Workflows-Engineers-Debugging-Engineering-Automation/dp/B0GZJNMY9C">📖 Get the Paperback</a>
+</p>
+
+<p align="center">
+  ⭐ <em>If these workflows save you time, please consider starring this repo and leaving a review on Amazon.</em>
 </p>
 
 ---
