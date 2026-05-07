@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  ⭐ <em>If these workflows save you time, please consider starring this repo and leaving a review on Amazon.</em>
+  ⭐ <em>If these workflows save you time, please consider starring this repo.</em>
 </p>
 
 ---
