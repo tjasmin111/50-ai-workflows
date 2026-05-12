@@ -1,4 +1,4 @@
-# 50 AI Workflows for Engineers
+# Book Review: 50 AI Workflows for Engineers
 
 > A solid, practical read. The debugging and PR workflows alone have already saved me a couple of hours this week.
 
