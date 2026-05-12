@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>From Debugging to System Design, Code Review & Engineering Automation</strong>
+  <strong>50 AI Workflows for Engineers: From Debugging to System Design, Code Review & Engineering Automation</strong>
 </p>
 
 <p align="center">
